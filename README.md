@@ -4,7 +4,7 @@ and I’m looking to gain experience to expand my skillset by working on a proje
 
 My Education:
 - B.S Electrical Engineering — SUNY New Paltz, NY
-- Graduated Summa Cum Laude — Spring 2021
+- Graduated Cum Laude — Spring 2021
 - Recognitions: Member of IEEE-HKN, Engineering Club
 
 Interests:
