@@ -12,7 +12,7 @@ Interests:
 Python, Machine Learning, Artificial Intelligence, OpenCV
 
 More about me:
-- I’m currently increasing my understanding of Swift, and PCB design
-- I’m looking to collaborate on iOS applications that can creatively pair with embedded systems
+- I’m currently increasing my understanding of Python & Machine Learning
+- I’m looking to collaborate on iOS and machine learning applications that can creatively pair with embedded systems
 
 📫 How to reach me -> KevinCarlNelson@gmail.com
